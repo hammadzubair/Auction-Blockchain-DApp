@@ -1,5 +1,5 @@
 
-# Auction-Blockchain-DApp
+# Auction-Blockchain-DApp: Master degree Thesis
 An Assessment of UTXO Smart Contracts: Towards Optimized Application Development on Cardano Blockchain 
 
 Auction dApp on Cardano Blockchain with Aiken On chain and Typescript, React off chain 
